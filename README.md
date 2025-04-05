@@ -1,16 +1,15 @@
-## Hi there 👋
+### Anderson Benício
 
-<!--
-**andersonsbenicio/andersonsbenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Profissional da área de Teste e Qualidade de Software, graduado em Sistemas de Informação, que tem como objetivo, trazer uma visão técnica para garantir a entrega de produtos de alta qualidade. 
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas: 
+Metodologias ágeis (Scrum, Kanban) 
+Automação de Testes - Cypress, Robot Framework, Playwright, Postman.
+CI/CD e Versionamento - Git, Git Actions, Jenkins. 
+Gestão de Testes - Qase.
+Gestão de Projetos - Jira, Azure.
+Banco de Dados - MongoDB, Postgres
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificações:
+Certificações de Testes - CTFL e CTFL-AT.
+Certificação de metodologia ágil - Agile Scrum Foundation(ASF).
